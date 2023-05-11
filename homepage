@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Phoebe's Ice-cream</title>
+    </head>
+    <body>
+        <header>
+            <div>
+                <div class="body">
+                    <label>Welcome to Phoebe's Ice-cream store</label>
+                </div>
+            </div>
+        </header>
+        <h1><p align="center"><font color="black" face="楷体">Phoebe's Ice-cream</font></p></h1>
+        <nav>
+            <ul>
+                <li><a href="menu/Menu.html">Menu</a></li>
+                <li><a href="flavours.html">Flavours</a></li>
+                <li><a href="checkout.html">Check out</a></li>
+                <li><a href="events.html">Events</a></li>
+            </ul>
+        </nav>
+        <hr size="3px" color="red">
+    </body>
+</html>
