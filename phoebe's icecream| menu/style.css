@@ -1,9 +1,0 @@
-.menu-section {
-    display: flex;
-}
-
-.left-column,
-.right-column {
-    flex: 1;
-}
-
